@@ -24,8 +24,7 @@ Output: 6
 */
 
 class Solution {
-  func lengthOfLastWord(_ str: String) -> Int {
-        
+    func lengthOfLastWord(_ str: String) -> Int {
         var tmp = 0
         for character in str.reversed() {
             if character != " " {
