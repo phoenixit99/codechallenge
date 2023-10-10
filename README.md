@@ -11,6 +11,8 @@
 4. Length of Last Word
 5. Roman to Integer
 6.  Valid Parentheses
+7.  Single Number
+
 
 
   
