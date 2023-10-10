@@ -10,6 +10,8 @@
 3. Remove Duplicates from Sorted Array
 4. Length of Last Word
 5. Roman to Integer
+6.  Valid Parentheses
+
 
   
 
